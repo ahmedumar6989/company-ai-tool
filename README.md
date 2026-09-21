@@ -87,3 +87,11 @@ company-ai-tool/
 │
 └── README.md
     └── Project documentation
+
+
+
+
+<img width="1917" height="1023" alt="image" src="https://github.com/user-attachments/assets/668c780e-63e2-4b13-a76c-004d11741fa3" />
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/531f793e-0209-406e-8f9e-8ec85a641444" />
+<img width="1917" height="991" alt="image" src="https://github.com/user-attachments/assets/08dfcbfb-c132-4911-9b0b-5162d684e97a" />
+
